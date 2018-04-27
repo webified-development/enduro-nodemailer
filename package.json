@@ -1,0 +1,18 @@
+{
+	"name": "enduro_new_project",
+	"version": "1.0.0",
+	"description": "",
+	"main": "assets/vendor/enduro/index.js",
+	"scripts": {
+		"start": "node_modules/.bin/enduro start"
+	},
+	"author": "author goes here",
+	"license": "MIT",
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"enduro": "*",
+		"express": "^4.16.3",
+		"express-handlebars": "^3.0.0",
+		"nodemailer": "^4.6.4"
+	}
+}
