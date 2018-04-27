@@ -49,7 +49,7 @@ local_app.prototype.init = function (app) {
 	  
 	  var mailOptions = {
 		from: firstName,
-		to: 'kamilzajac@int.pl',
+		to: 'zajackamil1@gmail.com',
 		subject: 'Sending Email using Node.js',
 		text: message
 	  };
